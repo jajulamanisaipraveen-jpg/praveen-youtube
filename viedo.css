@@ -63,7 +63,7 @@
   .grid{
     display: grid;
     grid-template-columns:310px 310px 310px 310px ;
-    grid-template-rows: 250px 250px 250px  ;
+    grid-template-rows: 300px 300px 300px ;
     column-gap: 10px;
     row-gap: 40px;
   }
@@ -118,4 +118,5 @@
     gap: 20px; 
     background-color: #f0f0f0;
     padding: 20px;
+
   }
